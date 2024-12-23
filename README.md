@@ -12,7 +12,6 @@ Software Development Engineer, Multimedia Systems Engineer, Tech Consultant.
 - ***Programming Languages***: JavaScript, C, Java, Python, 
 - ***Web Development***: NodeJS, Angular, HTML, CSS, JavaScript, TypeScript, BootStrap.
 - ***Databases***:  Microsoft SQL Server, MySQL, MongoDB, PostgreSQL, Sequelize-ORM.
-- ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV.
 - ***Data Analysis/Visualization Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
 - ***Development Tools***: Microsoft Azure, Google Cloud Platform, Docker, Tableau, PowerBI, Version Control (Git, BitBucket), Jira, AdobeXD, Figma, GitHub, Microsoft Office Suite (Word, Excel, PowerPoint).
 
@@ -42,4 +41,5 @@ Here are some ideas to get you started:
 - ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Gradient Boosting, Logistic Regression, ARIMAX, Time Series Forecasting, KNN, Decision Tree, XGBoost, Apriori.
 - ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
 - ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
+- ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV.
 -->
