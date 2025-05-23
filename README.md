@@ -9,7 +9,7 @@ My expertise spans across Full-Stack Development, Machine Learning, NLP, Statist
 Software Development Engineer, Multimedia Systems Engineer, Tech Consultant.
 
 ### 🎯  Skills 
-- ***Programming Languages***: JavaScript, C, Java, Python, 
+- ***Programming Languages***: JavaScript, C, Python, C++
 - ***Web Development***: NodeJS, Angular, HTML, CSS, JavaScript, TypeScript, BootStrap.
 - ***Databases***:  Microsoft SQL Server, MySQL, MongoDB, PostgreSQL, Sequelize-ORM.
 - ***Data Analysis/Visualization Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
